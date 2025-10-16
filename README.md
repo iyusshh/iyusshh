@@ -46,7 +46,7 @@ I enjoy designing clean backend architectures and intuitive frontend experiences
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 #### 🎨 [ColourBurst](https://github.com/iyusshh/ColourBurst)
 A vibrant interactive tool for experimenting with colors and gradients.  
@@ -62,8 +62,8 @@ A productivity and study tracker for GATE aspirants with data visualization & an
 
 ### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aayush-rai)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aayushrai.work@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aayush-rai-ar787)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aayushrai787@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://iyusshh.github.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iyusshh)
 
@@ -73,12 +73,7 @@ A productivity and study tracker for GATE aspirants with data visualization & an
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iyusshh&layout=compact&theme=tokyonight)  
 ![Stats](https://github-readme-stats.vercel.app/api?username=iyusshh&show_icons=true&theme=tokyonight)  
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=iyusshh&theme=tokyonight)
-
----
-
-### 🐍 My Contribution Activity
-<img src="https://github.com/iyusshh/iyusshh/blob/output/github-contribution-grid-snake.svg" alt="GitHub contributions snake" />
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=iyusshh&theme=default)
 
 > Visualizes my commits, showing my dedication to coding every day!  
 
