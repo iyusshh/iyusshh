@@ -25,56 +25,21 @@ I enjoy designing clean backend architectures and intuitive frontend experiences
 
 ---
 
-### 🛠️ Tech Stack
+🛠️ Tech Stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=java,cpp,python,js,ts,react,nextjs,nodejs,express,mongodb,mysql,tailwind,git,html,css,reactnative" alt="Tech Stack" /> </p>
+🎨 Featured Projects
+Project	Description	Tech Stack	Link
+ColourBurst	A vibrant interactive tool for experimenting with colors and gradients.	React, Tailwind CSS, Framer Motion	View Repo
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+GATE CSE Tracker	A productivity and study tracker for GATE aspirants with data visualization & analytics.	Next.js, Node.js, MongoDB	View Repo
 
----
+Online Bookstore Management System	Java application for seamless bookstore management, handling inventory, users, and orders efficiently.	Java, MySQL, Swing	View Repo
 
-###  Featured Projects
+Traffic Light Detection	Detect traffic light signals in real-time images or video streams using deep learning.	Python, OpenCV, TensorFlow	View Repo
+📈 GitHub Stats & Contributions
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=iyusshh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&card_width=400" alt="GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=iyusshh&theme=tokyo-night&hide_border=true" alt="Commits Graph" /> </p>
 
-#### 🎨 [ColourBurst](https://github.com/iyusshh/ColourBurst)
-A vibrant interactive tool for experimenting with colors and gradients.  
-**Tech:** React, Tailwind CSS, Framer Motion  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+Visualizes my commits, showing my dedication to coding every day!
 
-#### 📊 [GATE CSE Tracker](https://tracker-sybau.vercel.app/)
-A productivity and study tracker for GATE aspirants with data visualization & analytics.  
-**Tech:** Next.js, Node.js, MongoDB  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-
----
-
-### 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aayush-rai-ar787)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aayushrai787@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://iyusshh.github.io/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iyusshh)
-
----
-
-### 📈 GitHub Stats & Contributions
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iyusshh&layout=compact&theme=tokyonight)  
-![Stats](https://github-readme-stats.vercel.app/api?username=iyusshh&show_icons=true&theme=tokyonight)  
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=iyusshh&theme=default)
-
-> Visualizes my commits, showing my dedication to coding every day!  
-
----
+📫 Connect with Me
+<p align="center"> <a href="mailto:aayushrai787@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://linkedin.com/in/aayush-rai-ar787"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://iyusshh.github.io/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a> <a href="https://github.com/iyusshh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a> </p>
